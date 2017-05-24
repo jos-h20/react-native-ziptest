@@ -3,11 +3,13 @@ body {
     width: 100vw;
     height: 100vh;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
 
 }
 
 a {
     color: white;
+    margin: 2rem;
 }
 
 .about {
@@ -20,6 +22,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .contact {
@@ -28,6 +31,7 @@ a {
 
 .header {
     color: white;
+    margin: 1rem;
 }
 
 .home {
@@ -36,4 +40,5 @@ a {
 
 .subtitle {
     color: lightgray;
+    margin: 1rem;
 }

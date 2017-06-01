@@ -1,1 +1,0 @@
-alert("Time to click!!");
